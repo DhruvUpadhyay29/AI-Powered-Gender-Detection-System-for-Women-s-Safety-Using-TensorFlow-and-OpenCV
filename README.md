@@ -85,6 +85,7 @@ python train1.py
 ```
 
 Ensure training datasets are structured correctly and labeled appropriately.
+
 Use ur own datasets to Train . 
 I used 1000 men and 1000 women images to train the model. 
 
